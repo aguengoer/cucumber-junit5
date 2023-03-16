@@ -1,4 +1,4 @@
-package com.ara.cucumber;
+package com.ara.cucumber.runner;
 
 import io.cucumber.junit.platform.engine.Cucumber;
 
